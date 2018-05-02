@@ -1,0 +1,9 @@
+title = "Persona Q - Shadow Of the Labrynth"
+description = "Persona Q -  Shadow Of The Labrynth follows The  S.E.E.S. Team from Persona 3 and the Investigation Team from Persona 4 as they investigate the Mystery behind them being trapped in Yasogami High and the mysterious Labrynth holding dark secrets that holds the Keys to their escape as well as the lost memories of the mysterious Duo, Zen and Rei. This is a JRPG created by Atlus as a crossover installment of Persona, a branchoff of the larger Shin Megami Tensei Franchise."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000123400"
+region = "eur"
+release_date = "2014-06-05"
